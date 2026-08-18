@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "CatDot-py"
+version = "26.3.1"
+authors = [
+    { name="Matthew Carter", email="mjcarter002@gmail.com" },
+]
+description = "This is a combined package of all my other packages designed with multi-functionality"
+readme = "README.md"
+requires-python = ">=3.8"
+license = "MIT"
+
+
+keywords = ["SeaKrait", "Seacret", "CatDot"]
+classifiers = [
+    "Programming Language :: Python :: 3.13",
+    "Operating System :: OS Independent",
+    ]
+
+dependencies = []
+
+[project.urls]
+"Homepage" = "https://github.com/Orbits-Studio-Programing/CatDot-py"
+"Bug Tracker" = "https://github.com/Orbits-Studio-Programing/CatDot-py/issues"
+
+
+[tool.setuptools.packages.find]
+where = ["src"]

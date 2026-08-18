@@ -1,16 +1,17 @@
 
-# Welcome to CatDot-py! 🐈/🐟🛡️⚡
-### What is CatDot-py? 🐈/🐟🛡️⚡
+# Welcome to CatDot-py! 🐈/🐟🛡️🛑⚡
+### What is CatDot-py? 🐈/🐟🛡️🛑⚡
 
-CatDot-py is the official rebundle and successor of `Looprlib`, `Looprlib-Mit`, `SeaKrait`, and `Seacret`. \
+CatDot-py is the official rebundle and successor of `Looprlib`, `Looprlib-Mit`, `SeaKrait`, `StopSign` and `Seacret`. \
 All future updates and new features will be released exclusively under the CatDot-py name.\
 CatDot-py was made to bundle all my packages to make production easier.\
 Everything from the originals are still here.\
 This is the only version that will continue to update from now on.
 
-Seacret - Make code not readable to humans \
+Seacret (Archived) - Make code not readable to humans \
 CrackDown (Never Released) - Make code very simple to write \
-SeaKrait - Adds various functions
+SeaKrait - Adds various functions \
+StopSign (Never Released) - Adds stop functions to python
 
 
 ## Features

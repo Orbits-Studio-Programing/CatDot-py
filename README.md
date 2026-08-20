@@ -1,17 +1,18 @@
+q
+# Welcome to CatDot-py! 🐈/🐟🛑⚡📖
+### What is CatDot-py? 🐈/🐟🛑⚡📖
 
-# Welcome to CatDot-py! 🐈/🐟🛡️🛑⚡
-### What is CatDot-py? 🐈/🐟🛡️🛑⚡
-
-CatDot-py is the official rebundle and successor of `Looprlib`, `Looprlib-Mit`, `SeaKrait`, `StopSign` and `Seacret`. \
+CatDot-py is the official rebundle and successor of `Looprlib`, `Looprlib-Mit`, `SeaKrait`, `StopSign`.. \
 All future updates and new features will be released exclusively under the CatDot-py name.\
 CatDot-py was made to bundle all my packages to make production easier.\
 Everything from the originals are still here.\
 This is the only version that will continue to update from now on.
 
-Seacret (Archived) - Make code not readable to humans \
 CrackDown (Never Released) - Make code very simple to write \
 SeaKrait - Adds various functions \
-StopSign (Never Released) - Adds stop functions to python
+StopSign (Never Released) - Adds stop functions to python \
+EasyRead  (Never Released) - Make file functions easier t uderstand
+
 
 
 ## Features
@@ -40,8 +41,8 @@ Here is the positivity function.
 
 ### Example in package
     
-    import CBpy
-    print(CBpy.seamath.positivity(100,21,32,123))
+    import CBpy.SeaKrait as seakr
+    print(seakr.seamath.positivity(100,21,32,123))
 
 #### if 100 is positive the result is 21
 #### if 100 is negative the result is 32
@@ -50,7 +51,7 @@ Here is the positivity function.
 #### in this case the function will print 21 to the terminal!
 
 This function is good becuase it lowers the count of characters to type to only a single runnable function. \ 
-96 characters to 56.
+96 characters to 57.
 
 
 ### Other Material
